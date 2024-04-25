@@ -1,0 +1,9 @@
+{
+	"name": "databricks-menout-alura",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84bd03e0-ab46-4834-9dfb-2473b7ce2577",
+		"tenantId": "2c6ac419-1cdc-429b-bb5a-5aaa3953b20e"
+	}
+}
